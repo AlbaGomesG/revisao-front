@@ -1,0 +1,20 @@
+.link {
+    color: rgb(45, 15, 76);
+    font-weight: bold;
+}
+
+.actions {
+    margin-top: 20px;
+}
+
+.container {
+    background-color: #c399ed;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, rgb(105, 25, 181), lightblue);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(45, 15, 76);
+
+}

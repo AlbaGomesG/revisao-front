@@ -1,0 +1,14 @@
+.header {
+    background-color: rgba(238, 238, 206, 0.603);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+}
