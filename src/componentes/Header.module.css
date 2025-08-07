@@ -1,6 +1,6 @@
 .header {
-    background-color: rgba(238, 238, 206, 0.603);
-    color: rgb(0, 0, 0);
+    background: #333;
+    color: white;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -11,4 +11,10 @@
 .logo {
     display: flex;
     flex-direction: column;
+    gap: 10px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: bold;
 }

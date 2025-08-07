@@ -18,10 +18,10 @@ export default function Header() {
     return (
         <header className={styles.header}>
             <div className={styles.logo}>
-            <h1>Bem - vindo(a) a nossa loja de Eletrônicos</h1>
+            <h1 className={styles.title}>🛒 Bem - vindo(a) a nossa loja de Eletrônicos</h1>
             <p>Os melhores produtos com os melhores preços</p>
             </div>
-            <h1>Total de produtos: {productCount}</h1>
+            <h1 className={styles.title}>Total de produtos: {productCount}</h1>
         </header>
     );
 }

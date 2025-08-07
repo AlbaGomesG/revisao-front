@@ -1,5 +1,5 @@
 .link {
-    color: rgb(45, 15, 76);
+    color: rgb(0, 0, 0);
     font-weight: bold;
 }
 
@@ -8,13 +8,10 @@
 }
 
 .container {
-    background-color: #c399ed;
     height: 100vh;
-    background-image: linear-gradient(to bottom right, rgb(105, 25, 181), lightblue);
+    background: #ddb0722b;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: rgb(45, 15, 76);
-
 }

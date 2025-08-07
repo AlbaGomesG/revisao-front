@@ -78,6 +78,6 @@ export const productsData = [
         description: "Smartphone premium com câmeras Leica, carregamento ultra-rápido 120W e tela AMOLED.", 
         image: "/images/xiaomi-13-pro.png",
         rating: { stars: 5, count: 876 }
-    }
+    },
 ];
 
